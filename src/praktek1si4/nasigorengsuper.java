@@ -11,7 +11,8 @@ package praktek1si4;
  */
 public class nasigorengsuper {
     public static void main(String[] args) {
+        nasigoreng ekstra_pedas = new nasigoreng();
         
-    }
+    
     
 }
