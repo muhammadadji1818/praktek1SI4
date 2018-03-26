@@ -18,6 +18,8 @@ public class nasigorengsuper {
         ekstra_pedas.diskon_harga = 5;
         ekstra_pedas.harga_nasigoreng = 10000 ;
         ekstra_pedas.kreasi_nasigoreng = "bentuk yang unik dan sederhana ";
+        
+        menu_nasigoreng();
        
     
 }
