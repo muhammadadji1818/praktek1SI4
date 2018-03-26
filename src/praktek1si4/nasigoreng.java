@@ -16,11 +16,11 @@ public class nasigoreng {
     String kreasi_nasigoreng;
     
     void menu_nasigoreng(){
-        system.out.println("Bumbu masak :"+bumbu_masak);
-        system.out.println("Peralatan masak :"+peralatan_masak);
-        system.out.println("diskon harga :"+diskon_harga);
-        system.out.println("harga nasigoreng :"+harga_nasigoreng);
-        system.out.println("kreasi nasigoreng :"+kreasi_nasigoreng);
+        System.out.println("Bumbu masak :"+bumbu_masak);
+        System.out.println("Peralatan masak :"+peralatan_masak);
+        System.out.println("diskon harga :"+diskon_harga);
+        System.out.println("harga nasigoreng :"+harga_nasigoreng);
+        System.out.println("kreasi nasigoreng :"+kreasi_nasigoreng);
               
     }
     
